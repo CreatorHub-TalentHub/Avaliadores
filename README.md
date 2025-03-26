@@ -86,17 +86,17 @@
 
 | Expressão | Interpretação Possível | Observação |
 |----------------------------------|------------------------------------------------------|------------------|
-| “Depende do projeto” | Bom senso, flexível | Positivo |
-| “Sempre entrego rápido” | Pode indicar descuido com qualidade | Negativo |
-| “Faço do meu jeito” | Resistência a feedback ou rigidez | Negativo |
-| “Gosto de resolver sozinho” | Pode indicar dificuldade de colaboração | Atenção |
-| “Me esforço pra...” | Demonstra intenção de melhoria | Positivo |
-| “Não gosto muito de críticas” | Sinal de imaturidade profissional | Negativo |
-| “Costumo revisar” | Proatividade | Positivo |
-| “Já errei, mas aprendi” | Evolução e autoconhecimento | Positivo |
-| “Não tenho certeza agora” | Falta de preparo para a entrevista | Atenção |
-| “Ah, isso é meio complicado” | Tentativa de evitar a resposta | Negativo sutil |
-| “Não lembro direito” | Falta de domínio sobre suas próprias experiências | Negativo |
-| “Tanto faz” | Indiferença ou falta de opinião própria | Negativo sutil |
-| “Acho que sim/não” | Insegurança ou indecisão recorrente | Atenção |
-| “Depende, nunca pensei nisso” | Pode ser neutro ou indicar falta de reflexão prévia | Atenção |
+| “Depende do projeto” | Bom senso, flexível | 🟢 Positivo |
+| “Sempre entrego rápido” | Pode indicar descuido com qualidade | 🔴 Negativo |
+| “Faço do meu jeito” | Resistência a feedback ou rigidez | 🔴 Negativo |
+| “Gosto de resolver sozinho” | Pode indicar dificuldade de colaboração | 🟡 Atenção |
+| “Me esforço pra...” | Demonstra intenção de melhoria | 🟢 Positivo |
+| “Não gosto muito de críticas” | Sinal de imaturidade profissional | 🔴 Negativo |
+| “Costumo revisar” | Proatividade | 🟢 Positivo |
+| “Já errei, mas aprendi” | Evolução e autoconhecimento | 🟢 Positivo |
+| “Não tenho certeza agora” | Falta de preparo para a entrevista | 🟡 Atenção |
+| “Ah, isso é meio complicado” | Tentativa de evitar a resposta | 🔴⚠️ Negativo sutil |
+| “Não lembro direito” | Falta de domínio sobre suas próprias experiências | 🔴 Negativo |
+| “Tanto faz” | Indiferença ou falta de opinião própria | 🔴⚠️ Negativo sutil |
+| “Acho que sim/não” | Insegurança ou indecisão recorrente | 🟡 Atenção |
+| “Depende, nunca pensei nisso” | Pode ser neutro ou indicar falta de reflexão prévia | 🟡 Atenção |
